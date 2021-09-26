@@ -45,6 +45,6 @@ Simply click on the deployed application link to explore the possiblity of takin
 
 ## Questions
 For additional questions please contact:
-* Jayme Mizelle
-* Email: jlm_developer@protonmail.com
-* https://github.com/jaymemizelle/
+* The Privacy Dev
+* Email: theprivacydev@protonmail.com
+* https://github.com/theprivacydev/
